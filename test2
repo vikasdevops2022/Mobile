@@ -1,0 +1,8 @@
+Hii good eveing
+git basic commands
+git init
+git status
+git add
+git status
+git commit -m "mobile project"
+git push "url"
